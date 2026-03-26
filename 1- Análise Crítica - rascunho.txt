@@ -1,0 +1,32 @@
+1- Análise Crítica : 
+ As duas respostas propostas por mim e respondidas pelo Chat GPT trouxeram o que era pretendido.
+
+2 - Conclusão Técnica : 
+
+
+---------------------------------------
+
+
+
+Registro das Atividades : 
+1-  Registrar o Primeiro Prompting e a resposta do ChatGPT.
+
+
+Primeiro Prompting Zero-Shot
+
+"Preciso instalar o Linux no VirtualBOX para iniciar a Aula de Inteligência Artificial para Redes de Computadores."
+
+------------------
+
+2- Analisar a Resposta, destacando o que foi Útil e o que poderia ser Melhorado.
+ 
+R: As respostas com os prompts demonstrando passo a passo como fazer as instalações
+ 
+O que poderia ser melhorado ?
+ - Imagens para ilustrar igual a um livro.
+
+------------------
+
+3- Documentar as Melhorias Sugeridas para o segundo prompting e os resultados obtidos.
+
+Sou o Aluno Caio e o curso é presencial de nome 'Inteligência Artificial Voltada a Redes de Computadores' do SENAC São Paulo Unidade Lapa Tito, preciso importar uma imagem da máquina virtual do GNU/Linux Ubuntu Server 22.04.4 LTS desenvolvida pelo Professor Robson Vaamonde no Oracle Virtualbox de última versão ela deve ser instalada e configurada nos computadores do laboratório de informática da unidade, o sistema operacional dos laboratórios será o Microsoft Windows 10, com processador core intel de sétima geração . o computador tem 16GB de RAM ( 8GB de configuração e 8GB de mesmo modelo em um dos slots) , meu computador o HD foi substituído por um SSD de 256mb . essa imagem já foi disponibilizada pelo Professor para fazer o download e está disponível na pasta Downloads com o nome de UbuntuServer-OnPremises.ova, essa imagem será utilizada em todas as aulas práticas de IA. Para isso preciso de um passo a passo detalhado (Simples, Objetivo, Direto e pode usar Ícones para facilitar o entendimento) mostrando como importar a imagem e configurar a rede em modo Bridge (Ponte) utilizando a rede cabeada local do laboratório e no final iniciar a máquina virtual para acesso remoto via SSH .
